@@ -15,3 +15,4 @@ Volokhov, D. V., Lock, L. R., Dyer, K. E., DeAnglis, I. K., Andrews, B. R., Simo
 Images:
 - Bat image: Clker-Free-Vector-Images on Pixabay
 - Bacteria image: Smashicons on Flaticon
+- https://pngimg.com/image/25406
