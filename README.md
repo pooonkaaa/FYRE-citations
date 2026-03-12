@@ -11,3 +11,7 @@ Puspitasari, Y., Khairullah, A. R., Raharjo, H. M., Fauziah, I., Tyasningsih, W.
 Sunantaraporn, S., Wacharapluesadee, S., Maneeorn, P., Savigamin, C., Rimmer, L. W., Rattanagitpaisan, N., Pataradool, T., Boonserm, R., Panphuangkaew, S., Duenkae, P., & Siriyasatien, P. (2026). Molecular Detection and Genetic Diversity of Bat-Associated Bartonella spp. In Bat Ectoparasites Collected From Ratchaburi Province, Thailand. Veterinary Medicine and Science, 12(2), e70815. https://doi.org/10.1002/vms3.70815
 Veikkolainen, V., Vesterinen, E. J., Lilley, T. M., & Pulliainen, A. T. (2014). Bats as reservoir hosts of human bacterial pathogen, Bartonella mayotimonensis. Emerging Infectious Diseases, 20(6), 960–967. https://doi.org/10.3201/eid2006.130956
 Volokhov, D. V., Lock, L. R., Dyer, K. E., DeAnglis, I. K., Andrews, B. R., Simonis, M. C., Stockmaier, S., Carter, G. G., Downs, C. J., Fenton, M. B., Simmons, N. B., & Becker, D. J. (2023). Expanded diversity of novel hemoplasmas in rare and undersampled Neotropical bats. One Health, 17, 100633. https://doi.org/10.1016/j.onehlt.2023.100633
+
+Images:
+- Bat image: Clker-Free-Vector-Images on Pixabay
+- Bacteria image: Smashicons on Flaticon
